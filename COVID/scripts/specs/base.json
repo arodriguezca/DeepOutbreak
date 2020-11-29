@@ -1,0 +1,17 @@
+{
+"suffix":"",
+"jobs":1,
+"start_ew": "202030",
+"end_ew": "202030",
+"states":"All",
+"n_models":40,
+"n_samples": 20,
+"stochastic_reps":1,
+"epochs":2,
+"lr":0.01,
+"norm_layer": "True",
+"model_type": "COVID19",
+"include_col": "retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline,covidnet,positiveIncrease,negativeIncrease,totalTestResultsIncrease,onVentilatorCurrently,inIcuCurrently,recovered,hospitalizedIncrease,death_jhu_incidence,Observed Number,Excess Higher Estimate,dex_a,apple_mobility,Number of Facilities Reporting,CLI Percent of Total Visits",
+"exclude_col":"",
+"data":"none"
+}
